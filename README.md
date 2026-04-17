@@ -1,5 +1,7 @@
 # 100 Days of python!
 
+Without using AI! 🤑
+
 I am going through a 100 day python course.
 I already have some basics so I am just 
 recreating each project until theres something
