@@ -66,7 +66,7 @@ def validate_resources(product):
     return True
 
 def validate_money(cost):
-    #The enter of the money can be improved but as this will in theory came from 1 of
+    #Entering the money can be improved but as this will in theory came from 1 of
     #the machine sensors then it does not matter :D
     user_money = input(f"Cost: {cost}\n Insert coins\n QUANTITY:COINTYPE, eg 4:quarter,2:dimes,1:nickel,1:pennies").split(",")
     total_money = float(0)
