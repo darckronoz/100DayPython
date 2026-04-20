@@ -20,10 +20,10 @@ def turn_right():
 screen = turtle.Screen()
 screen.setup(width=800, height=600)
 
-turtle.onkey(move_forward, "Up")
-turtle.onkey(move_backwards, "Down")
-turtle.onkey(turn_left, "Left")
-turtle.onkey(turn_right, "Right")
+screen.onkey(move_forward, "Up")
+screen.onkey(move_backwards, "Down")
+screen.onkey(turn_left, "Left")
+screen.onkey(turn_right, "Right")
 
-turtle.listen()
+screen.listen()
 screen.exitonclick()
