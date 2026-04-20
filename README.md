@@ -10,3 +10,5 @@ that I am not able to do
 Day 11 is a 21 blackjack simulator, I did it so that
 it simulates the deck so you can use it to practice 
 counting cards
+
+Day 20 is a snake game using turtle for GUI 😬
