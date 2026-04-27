@@ -1,0 +1,28 @@
+html {
+    background: black;
+}
+
+body {
+    text-align: center;
+    margin: 4%;
+    color: rgb(226, 224, 217);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    padding: 5px;
+    border: 2px solid;
+    border-color: rgb(226, 224, 217);
+}
+
+p {
+    font-size: 0.7svw;
+    margin: 4px;
+    letter-spacing: 3px;
+}
+
+h1 {
+    font-weight: 100;
+    margin: 0;
+    font-size: 5svw;
+}
